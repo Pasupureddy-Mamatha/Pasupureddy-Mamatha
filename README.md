@@ -29,3 +29,11 @@ Jupyter Notebook, VS Code, GitHub
 - Performing exploratory data analysis (EDA) and data cleaning on real-world datasets  
 - Improving my skills in dashboard design and data storytelling  
 - Practicing SQL queries and Python for analytics use cases
+
+---
+
+### 🔗 Connect With Me
+
+- 📧 Email: pasupureddymamatha968@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/pasupureddy-mamatha
+- 🧑‍💻 GitHub: https://github.com/Pasupureddy-Mamatha
