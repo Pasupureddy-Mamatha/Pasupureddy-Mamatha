@@ -20,3 +20,12 @@ Excel, Power BI, Tableau
 
 **Tools & Platforms:**  
 Jupyter Notebook, VS Code, GitHub
+
+---
+
+### 📊 What I’m Currently Working On
+
+- Building end-to-end data analytics projects using Python, SQL, and Power BI  
+- Performing exploratory data analysis (EDA) and data cleaning on real-world datasets  
+- Improving my skills in dashboard design and data storytelling  
+- Practicing SQL queries and Python for analytics use cases
